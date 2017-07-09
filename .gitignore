@@ -13,3 +13,15 @@ backups/
 
 asm/
 \.curseclient
+
+usernamecache\.json
+
+usercache\.json
+
+optionsshaders\.txt
+
+optionsof\.txt
+
+options\.txt
+
+crash-reports/
