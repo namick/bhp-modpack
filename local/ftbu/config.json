@@ -17,9 +17,11 @@
     "warp": true,
     "tpl": true,
     "inv": true,
+    "heal": true,
     "back": true,
     "server_info": true,
     "spawn": true,
+    "loaded_chunks": true,
     "home": true,
     "kickme": true
   },
@@ -34,6 +36,7 @@
       ],
       "substitute_prefix": "!"
     },
+    "max_leaderboard_size": 250,
     "server_info": {
       "admin_quick_access": true,
       "difficulty": true,
@@ -44,7 +47,6 @@
   "world": {
     "chunk_loading": true,
     "log_chunkloading": false,
-    "blocked_entities": [],
     "chunk_claiming": true,
     "safe_spawn": false,
     "spawn_area_in_sp": false
