@@ -89,6 +89,9 @@
         "harvestcraft:pamCinnamon/0",
         "harvestcraft:pamMaple/0",
         "harvestcraft:pamPaperbark/0",
+        "harvestcraft:pamcinnamon/0",
+        "harvestcraft:pammaple/0",
+        "harvestcraft:pampaperbark/0",
         "minecraft:fence",
         "minecraft:leaves",
         "minecraft:leaves2",
@@ -133,6 +136,8 @@
       ],
       "blocklist": [
         "actuallyadditions:blockMisc/3",
+        "armorplus:block_lava_crystal/0",
+        "biomesoplenty:gem_ore/0",
         "biomesoplenty:gem_ore/1",
         "biomesoplenty:gem_ore/2",
         "biomesoplenty:gem_ore/3",
@@ -167,7 +172,12 @@
         "thermalfoundation:ore/5",
         "thermalfoundation:ore/6",
         "thermalfoundation:ore/7",
-        "thermalfoundation:ore/8"
+        "thermalfoundation:ore/8",
+        "thermalfoundation:ore_fluid/0",
+        "thermalfoundation:ore_fluid/1",
+        "thermalfoundation:ore_fluid/2",
+        "thermalfoundation:ore_fluid/3",
+        "thermalfoundation:ore_fluid/4"
       ]
     },
     "shears": {
