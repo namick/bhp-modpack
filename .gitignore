@@ -25,3 +25,9 @@ optionsof\.txt
 options\.txt
 
 crash-reports/
+
+\.analytics/
+
+config\.tmp/
+
+minecraftinstance\.json
